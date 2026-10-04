@@ -42,6 +42,7 @@ Shipment Lifecycle Reconstruction
         ↓
 Gold Delta Layer
         ↓
+<<<<<<< Updated upstream
 Databricks SQL
 ```
 
@@ -943,3 +944,6 @@ Ingestion incrémentale
 → Databricks Workflow
 → Observability
 ```
+=======
+Databricks SQL
+>>>>>>> Stashed changes
